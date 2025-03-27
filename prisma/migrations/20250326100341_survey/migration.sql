@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Survey" ALTER COLUMN "questionAudio1" SET DATA TYPE TEXT,
+ALTER COLUMN "questionAudio2" SET DATA TYPE TEXT;
