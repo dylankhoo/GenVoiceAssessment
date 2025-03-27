@@ -1,4 +1,4 @@
-import { Card, CardHeader, CardTitle } from "@/components/ui/Card";
+import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 import AuthForm from "@/components/AuthForm";
 
 export default function Login() {

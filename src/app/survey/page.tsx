@@ -1,5 +1,5 @@
 "use client";
-import { Card, CardHeader, CardTitle } from "@/components/ui/Card";
+import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 import dynamic from "next/dynamic";
 
 const SurveyForm = dynamic(() => import("@/components/SurveyForm"), {

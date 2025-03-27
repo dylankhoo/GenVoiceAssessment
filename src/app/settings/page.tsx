@@ -1,4 +1,4 @@
-import { Card, CardHeader, CardTitle } from "@/components/ui/Card";
+import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 import SettingsForm from "@/components/SettingsForm";
 
 export default async function Settings() {

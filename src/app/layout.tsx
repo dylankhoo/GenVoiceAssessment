@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Toaster } from "sonner";
 import "./styles/globals.css";
 
-import Header from "@/components/ui/Header";
+import Header from "@/components/ui/header";
 
 export const metadata: Metadata = {
   title: "GenVoice Assessment",

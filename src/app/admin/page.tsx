@@ -1,8 +1,8 @@
 "use client";
 import { useState, useEffect } from "react";
-import { Button } from "@/components/ui/Button";
+import { Button } from "@/components/ui/button";
 import { toast } from "sonner";
-import { Input } from "@/components/ui/Input";
+import { Input } from "@/components/ui/input";
 import {
   getAllUsers,
   updateUserAdminAction,
